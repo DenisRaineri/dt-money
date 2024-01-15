@@ -50,7 +50,7 @@ export const Content = styled(Dialog.Content)`
       cursor: pointer;
 
       &:disabled {
-        opacity: 0.6;
+        opacity: 0.5;
         cursor: not-allowed;
       }
       &:not(:disabled):hover {
